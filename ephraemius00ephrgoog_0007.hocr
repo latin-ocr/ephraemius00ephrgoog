@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ephraemius00ephrgoog/ephraemius00ephrgoog_0007.png"; bbox 0 0 2802 4688; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 187 437 1290 675">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 187 363 1290 675">
+     <span class='ocr_line' id='line_1_1' title="bbox 187 437 1290 675; baseline -0.006 -86"><span class='ocrx_word' id='word_1_1' title='bbox 187 437 1290 675; x_wconf 52' lang='lat' dir='ltr'>{PHRAEMlUs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 483 1111 993 1168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 483 1111 993 1168">
+     <span class='ocr_line' id='line_1_2' title="bbox 483 1111 993 1168; baseline -0.004 -3"><span class='ocrx_word' id='word_1_2' title='bbox 483 1113 546 1166; x_wconf 74' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 581 1111 993 1168; x_wconf 75' lang='lat' dir='ltr'>RECOGNITIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 323 1663 1144 1754">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 323 1663 1144 1754">
+     <span class='ocr_line' id='line_1_3' title="bbox 323 1663 1144 1754; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 323 1667 768 1754; x_wconf 79' lang='lat' dir='ltr'><strong>IMMANUELIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 813 1663 1144 1754; x_wconf 78' lang='lat' dir='ltr'><strong>BEKKERI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 600 4021 843 4098">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 600 4021 843 4098">
+     <span class='ocr_line' id='line_1_4' title="bbox 600 4021 843 4098; baseline 0.016 -4"><span class='ocrx_word' id='word_1_6' title='bbox 600 4021 843 4098; x_wconf 85' lang='lat' dir='ltr'><strong>BONNAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 336 4172 1245 4360">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 336 4172 1245 4360">
+     <span class='ocr_line' id='line_1_5' title="bbox 336 4172 1245 4241; baseline 0.008 -12"><span class='ocrx_word' id='word_1_7' title='bbox 336 4172 795 4241; x_wconf 66' lang='lat' dir='ltr'>lMPENSISEst</span> <span class='ocrx_word' id='word_1_8' title='bbox 843 4179 1106 4238; x_wconf 81' lang='lat' dir='ltr'>WEBER!</span> <span class='ocrx_word' id='word_1_9' title='bbox 1242 4209 1245 4212; x_wconf 94' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 616 4306 833 4360; baseline 0.009 -2"><span class='ocrx_word' id='word_1_10' title='bbox 616 4306 833 4360; x_wconf 69' lang='lat' dir='ltr'><strong>MDGGGXL:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1406 4688">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1406 4688">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1406 4688; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1406 4688; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
